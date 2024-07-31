@@ -1,0 +1,6 @@
+; Filename: ELWTD_EXP.DEF
+LIBRARY ELWTD.DLL
+; *** Visual Studio 2022 EXPORT ALIASES ONLY ***
+; ThinkDice! - Copyright (c) 2024 Elwynor Technologies
+EXPORTS
+	_init__elwtd=init__elwtd	@1

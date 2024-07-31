@@ -1,0 +1,43 @@
+   
+    ________    _       __   ____  _           __
+   /_  __/ /_  (_)___  / /__/ __ \(_)_______  / /
+    / / / __ \/ / __ \/ //_/ / / / / ___/ _ \/ / 
+   / / / / / / / / / / ,< / /_/ / / /__/  __/_/  
+  /_/ /_/ /_/_/_/ /_/_/|_/_____/_/\___/\___(_)   
+                                            
+                  version 2.0
+   Copyright (c) 2004-2024 Elwynor Technologies
+          
+
+ WHAT IS THINKDICE?
+
+ ThinkDice is a simple but fun guessing game where users guess the result of
+ a die roll, earning points for correct guesses and losing points for 
+ incorrect guesses.  Users compete to get on the top ten list.
+ 
+ GAMEPLAY
+ 
+ ThinkDice is a simple game.  While playing, simply guess the result of a 
+ single die's roll (guess 1 through 6).  You guess five times - each time,
+ you score ten times the die roll for a correct answer, or lose twice the
+ die roll for an incorrect answer.  
+ 
+ Select "T" from the main menu for the top ten list.
+ 
+ INSTALLATION AND CONFIGURATION
+ 
+ Simply unzip the ThinkDice! game archive to your BBS server directory,
+ add ThinkDice! to your menu, configure the MSG file to your liking, and start
+ the BBS!  It's that easy! 
+ 
+ GAME HISTORY
+ 
+ ThinkDice! was originally written and developed by Rick Hadsall in 1989, and
+ based upon his earlier DOS game of the same name. 
+
+ The game was released as shareware for The Major BBS v5.x. It was shelved 
+ until being revived along with many other modules in 2004. Then, it was ported 
+ to The Major BBS 6.25/Worldgroup 1/Worldgroup 2 DOS format. In 2006, it was 
+ ported to Worldgroup 3.2.  In 2023, it was ported to Major BBS V10. Finally,
+ in 2024, its old text file top ten was converted to BTrieve. 
+ 

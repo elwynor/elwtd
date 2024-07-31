@@ -1,0 +1,28 @@
+; ELWTD.MDF
+
+Module Name: ThinkDice!
+
+Developer: Elwynor Technologies
+
+Requires:
+Replaces:
+
+Install:
+
+Online user manual: 
+
+DLLs: ELWTD
+MSGs: ELWTD
+
+Btrieve page size: 1024
+Btrieve files:     2
+
+Cleanup:
+
+Event-1:
+Event-2:
+Event-3:
+Event-4:
+
+Add-On Utility:
+
